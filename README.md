@@ -1,3 +1,6 @@
+Оригинальный репозиторий Keda   
+https://github.com/kedacore/keda 
+
 <p align="center"><img src="images/logos/keda-word-colour.png" width="300"/></p>
 <p style="font-size: 25px" align="center"><b>Kubernetes-based Event Driven Autoscaling</b></p>
 <p style="font-size: 25px" align="center">
